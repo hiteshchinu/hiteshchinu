@@ -20,8 +20,9 @@ Hi there! I'm Hitesh Khandelwal, a passionate electrical and electronics enginee
 ## About Me
 
 - 🎓 Currently pursuing a Bachelor of Technology in Electrical and Electronics Engineering at Vellore Institute of Technology.
-- 🌱 Always eager to learn and explore new technologies.
 - 💻 Passionate about data analysis and machine learning.
+- 🌱 Always eager to learn and explore new technologies.
+
 
 Feel free to explore my projects and reach out to collaborate or discuss ideas. 
 Thanks for visiting!
