@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a recent Electrical and Electronics Engineering graduate with a strong passion for data analysis. Here you’ll find a showcase of my work, projects, and code. Welcome to my GitHub profile! 
+I’m a recent Electrical and Electronics Engineering graduate with a strong passion for data analysis. Here you’ll find a showcase of my work. Welcome to my GitHub profile! 
 <br><br>
 
 
